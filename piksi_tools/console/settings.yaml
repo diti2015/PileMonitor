@@ -1,0 +1,6 @@
+- {group: device, name: bauderate, value: 115200}
+- {group: device, name: port, value: /dev/ttyUSB0}
+- {group: threshold, name: position, value: 5}
+- {group: threshold, name: depth, value: 6}
+- {group: threshold, name: time, value: 5}
+- {group: threshold, name: offset, value: 6}
